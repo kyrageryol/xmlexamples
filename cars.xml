@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vehicle>
+	<car id="1" type="electric" manufacurer="Tesla">
+	<model>Model S</model>
+	<color>black</color>
+	<fuel>electric</fuel>
+</vehicle>
